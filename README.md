@@ -100,16 +100,6 @@ const tanmay: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanmaybamdale&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🎨 Featured Projects
 
 <div align="center">
@@ -266,16 +256,6 @@ const tanmay: Developer = {
 ### 💭 Developer Wisdom
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/tanmaybamdale/tanmaybamdale/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
