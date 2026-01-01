@@ -118,7 +118,7 @@ const tanmay: Developer = {
 - 🎯 Production-ready
 
   ### E-Seva-Kendra Template
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanmaybamdale&repo=Villas-Template&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)](https://github.com/tanmaybamdale/Villas-Template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanmaybamdale&repo=Villas-Template&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)](https://github.com/tanmaybamdale/Maha-E-Seva-Kendra-Template)
 
 **Modern E-Seva-Kendra website template**
 - 🎨 Stunning GSAP animations
