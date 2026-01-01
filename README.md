@@ -117,6 +117,15 @@ const tanmay: Developer = {
 - ⚡ Optimized performance
 - 🎯 Production-ready
 
+  ### E-Seva-Kendra Template
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanmaybamdale&repo=Villas-Template&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)](https://github.com/tanmaybamdale/Villas-Template)
+
+**Modern E-Seva-Kendra website template**
+- 🎨 Stunning GSAP animations
+- 📱 Fully responsive design
+- ⚡ Optimized performance
+- 🎯 Production-ready
+
 </td>
 <td width="50%">
 
