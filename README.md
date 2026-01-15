@@ -130,7 +130,7 @@ const tanmay: Developer = {
 <td width="50%">
 
 ### 🏡 Wedding Invitation Template 
-[![Readme Card](https://github.com/tanmaybamdale/weddinginvitation)](https://github.com/tanmaybamdale/weddinginvitation)
+[![Readme Card](https://github.com/tanmaybamdale/weddinginvitation/blob/main/README.md)](https://github.com/tanmaybamdale/weddinginvitation)
 
 **Modern wedding invitation website template**
 - 🎨 Stunning animations
