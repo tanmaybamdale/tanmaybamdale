@@ -129,6 +129,15 @@ const tanmay: Developer = {
 </td>
 <td width="50%">
 
+### 🏡 Wedding Invitation Template 
+[![Readme Card](https://github.com/tanmaybamdale/weddinginvitation)](https://github.com/tanmaybamdale/weddinginvitation)
+
+**Modern wedding invitation website template**
+- 🎨 Stunning animations
+- 📱 Fully customizable design 
+- ⚡ Optimized performance
+- 🎯 Quick ready up steup 
+
 ### 🚀 Coming Soon
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanmaybamdale&repo=your-next-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)](https://github.com/tanmaybamdale)
 
